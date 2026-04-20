@@ -42,7 +42,6 @@ A fully functional e-commerce application focused on dynamic filtering and state
 🔗 GitHub: [https://github.com/shreyadharmadhikari/EasyShop](https://github.com/shreyadharmadhikari/EasyShop)
 🔗 Live Demo: [https://easyshop7.netlify.app/](https://easyshop7.netlify.app/)
 
----
 
 ### VacayPlanner — Vacation Planning Web App
 
