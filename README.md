@@ -8,7 +8,6 @@ A modern, responsive portfolio website showcasing my work as a **Frontend Develo
 
 🔗https://shreya-dharmadhikari-portfolio.netlify.app/#home
 
---
 
 ## About
 
@@ -23,7 +22,6 @@ I focus on:
 
 Currently transitioning into **full-stack development**, expanding into MERN stack and backend systems.
 
----
 
 ## Featured Projects
 
@@ -64,7 +62,6 @@ A feature-rich travel planner integrating multiple APIs to deliver real-time, us
 🔗 GitHub: [https://github.com/shreyadharmadhikari/VacayPlanner](https://github.com/shreyadharmadhikari/VacayPlanner)
 🔗 Live Demo: [https://shreya-vacayplanner.netlify.app/](https://shreya-vacayplanner.netlify.app/)
 
----
 
 ## Skills
 
@@ -93,7 +90,6 @@ A feature-rich travel planner integrating multiple APIs to deliver real-time, us
 * Problem Solving
 * Clean UI/UX Design Thinking
 
----
 
 ## Experience
 
@@ -102,7 +98,6 @@ Persistent Systems Limited
 *2022 – Oct 2024*
 Technologies: .NET, JavaScript
 
----
 
 ## Education
 
@@ -113,7 +108,6 @@ Technologies: .NET, JavaScript
 
 * **SSC (10th)** — 96%
 
----
 
 ## What This Portfolio Demonstrates
 
@@ -123,7 +117,6 @@ Technologies: .NET, JavaScript
 * Clean and organized code practices
 * Focus on usability, performance, and real-world functionality
 
----
 
 ## Contact
 
@@ -131,10 +124,8 @@ Technologies: .NET, JavaScript
 * **LinkedIn:** [https://www.linkedin.com/in/shreya-dharmadhikari/](https://www.linkedin.com/in/shreya-dharmadhikari/)
 * **GitHub:** [https://github.com/shreyadharmadhikari](https://github.com/shreyadharmadhikari)
 
----
 
 ## Status
 
 Actively seeking **Frontend Developer / Software Engineer opportunities**.
 
----
