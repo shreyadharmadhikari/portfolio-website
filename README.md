@@ -1,4 +1,4 @@
----
+
 
 # Shreya Dharmadhikari — Portfolio
 
@@ -8,7 +8,7 @@ A modern, responsive portfolio website showcasing my work as a **Frontend Develo
 
 🔗https://shreya-dharmadhikari-portfolio.netlify.app/#home
 
----
+--
 
 ## About
 
