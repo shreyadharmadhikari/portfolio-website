@@ -6,7 +6,7 @@ A modern, responsive portfolio website showcasing my work as a **Frontend Develo
 
 ## Live Website
 
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
+🔗https://shreya-dharmadhikari-portfolio.netlify.app/#home
 
 ---
 
