@@ -40,7 +40,7 @@
     #fff
   );
   --shadow-col: rgba(10, 10, 10, 0.8);
-  --overlay-body: rgba(19, 17, 18, 0.85);
+  --overlay-body: rgba(19, 17, 18, 0.88);
   --gray-col1: rgb(200, 200, 200);
   --navbar-height: calc(clamp(0.9rem, 2.4vw, 1.2rem) + 2rem);
   --text-color: #fff;
@@ -70,7 +70,7 @@ html[data-theme="light"] {
     #fff
   );
   --shadow-col: rgba(10, 10, 10, 0.705);
-  --overlay-body: rgba(252, 247, 250, 0.7);
+  --overlay-body: rgba(252, 247, 250, 0.85);
   --gray-col1: rgb(59, 59, 59);
   --navbar-height: calc(clamp(0.9rem, 2.4vw, 1.2rem) + 2rem);
   --text-color: rgb(10, 10, 10);
@@ -833,7 +833,7 @@ body::before {
 #contact {
   background: linear-gradient(
     135deg,
-    rgba(255, 26, 133, 0.05) 0%,
+    rgba(255, 26, 133, 0.028) 0%,
     transparent 100%
   );
   padding-bottom: 3rem;
