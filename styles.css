@@ -301,17 +301,15 @@ body::before {
   letter-spacing: 1px;
   font-weight: 700;
   word-spacing: 0.12rem;
-  animation: slideToRight 2.4s ease-out 1;
+  animation: visibleAfterwards 2.2s ease-in 1;
 }
 
-@keyframes slideToRight {
+@keyframes visibleAfterwards {
   0% {
     opacity: 0;
-    transform: translateX(-150%);
   }
   100% {
     opacity: 1;
-    transform: translateX(0px);
   }
 }
 
@@ -397,6 +395,19 @@ body::before {
   font-size: clamp(1.8rem, 3.4vw, 2.2rem);
   font-weight: 700;
   letter-spacing: 1px;
+  animation: jumpIn 0.5s ease 1 forwards;
+}
+
+@keyframes jumpIn {
+  0% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-6px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 
 #skills-container {
@@ -480,6 +491,7 @@ body::before {
   font-size: clamp(1.8rem, 3.4vw, 2.2rem);
   font-weight: 700;
   letter-spacing: 1px;
+  animation: jumpIn 0.5s ease 1 forwards;
 }
 
 #projects .section-header p {
@@ -678,6 +690,7 @@ body::before {
   letter-spacing: 1px;
   margin: 0;
   padding-top: 1rem;
+  animation: jumpIn 0.5s ease 1 forwards;
 }
 
 .about-wrapper {
@@ -840,6 +853,10 @@ body::before {
   border-top: 1px solid rgb(90, 89, 89);
   width: 100%;
   height: max-content;
+}
+
+#contact h2 {
+  animation: jumpIn 0.5s ease 1 forwards;
 }
 
 .contact-grid {
