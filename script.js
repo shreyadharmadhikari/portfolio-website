@@ -118,3 +118,18 @@ contactIcons.forEach((icon) => {
     }
   });
 });
+
+const sectionHeadings = document.querySelectorAll(".heading");
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("show");
+      observer.unobserve(entry.target);
+    }
+  });
+});
+
+sectionHeadings.forEach((heading) => {
+  observer.observe(heading);
+});
