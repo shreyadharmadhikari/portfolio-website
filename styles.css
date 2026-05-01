@@ -557,7 +557,7 @@ body::before {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url("assets/project_2.png");
+  background-image: url("./assets/project_2.png");
   background-size: cover;
   background-position: 50% 50%;
   transition: all 0.3s ease-in;
@@ -571,7 +571,7 @@ body::before {
   display: block;
   width: 100%;
   height: 100%;
-  background-image: url("assets/project_1.png");
+  background-image: url("./assets/project_1.png");
   background-size: cover;
   background-position: 50% 50%;
   transition: all 0.3s ease-in;
