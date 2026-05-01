@@ -353,6 +353,11 @@ body::before {
   transform: translate(0px 0px);
 }
 
+.cta-btns > a {
+  color: var(--gray-col1);
+  font-size: clamp(0.88rem, 2.2vw, 1.02rem);
+}
+
 .home-container > .cta-btns > button {
   background: transparent;
   font-size: clamp(0.88rem, 2.2vw, 1.02rem);
@@ -1099,15 +1104,9 @@ body::before {
     gap: 2%;
   }
 
-  .home-container > .cta-btns > button {
-    background: transparent;
+  .cta-btns > a {
+    color: var(--gray-col1);
     font-size: clamp(0.88rem, 2.2vw, 1.02rem);
-    color: var(--contrast-col1);
-    padding-block: 0.32rem;
-    padding-inline: 1rem;
-    border: 1px solid var(--contrast-col1);
-    border-radius: 999px;
-    transition: transform 0.3s ease;
   }
 
   .home-container > .cta-btns > #view-projects {
