@@ -1120,7 +1120,7 @@ body::before {
   }
 
   #projects {
-    padding: 60px 1rem;
+    padding: 1rem;
   }
 
   .projects-container {
@@ -1142,7 +1142,7 @@ body::before {
   }
 
   #skills {
-    padding: 2rem 1rem;
+    padding: 1rem;
   }
 
   #skills h2 {
